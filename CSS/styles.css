@@ -61,4 +61,18 @@ div p
 }
 
 
+/*Backgrounds*/
 
+.div-background
+{
+    background-image: url('./img/por-do-sol.jpg');
+    height: 300px;
+
+}
+
+.titulo-background
+{
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
