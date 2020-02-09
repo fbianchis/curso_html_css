@@ -1,6 +1,16 @@
-h1{
+h1
+{
     color: red;
 }
-p{
+p
+{
     color:green;
 }
+h2
+{
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+
+/*este é um comentário */
